@@ -30,3 +30,12 @@
 *.exe
 *.out
 *.app
+
+# User Project Files
+.vscode/
+
+# Automatically Generated Debug Files
+*.pdb
+
+# Data Files (need to be explicitly added!)
+[Dd]ata/
