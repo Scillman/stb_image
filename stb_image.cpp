@@ -65,7 +65,7 @@ generate_crc32_table()
 }
 
 /**
- * @brief Generates the CRC32 for the given @param pData for the given @param size number of bytes.
+ * @brief Generates the CRC32 for the given data.
  * @param pData A pointer to the data to generate the CRC32 for.
  * @param size The number of bytes the data is comprised of.
  * @param initial The initial CRC32 value. (Default = 0)
